@@ -1,4 +1,4 @@
-# Mongo DB
+# MongoDB
 
 The MongoDB website: https://www.mongodb.com/docs/manual/introduction/.
 ___
