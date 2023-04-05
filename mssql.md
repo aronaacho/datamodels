@@ -1,3 +1,0 @@
-# MSSQL
-
-### MSSQL (Microsoft SQL) is relational database published by Microsoft...
